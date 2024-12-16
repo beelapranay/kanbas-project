@@ -1,0 +1,83 @@
+[
+    {
+        "_id": "A101",
+        "title": "Propulsion Assignment",
+        "points": 31,
+        "description": "Multiple Modules",
+        "due": "May 25 3:10pm",
+        "until": "April 23 4:00pm",
+        "course": "RS101"
+    },
+    {
+        "_id": "A102",
+        "title": "Combustion Analysis",
+        "points": 21,
+        "description": "Multiple Modules",
+        "due": "May 25 3:10pm",
+        "until": "April 23 4:00pm",
+        "course": "RS101"
+    },
+    {
+        "_id": "A103",
+        "title": "Nozzle Design Project",
+        "points": 37,
+        "description": "Multiple Modules",
+        "due": "May 25 3:10pm",
+        "until": "April 23 4:00pm",
+        "course": "RS101"
+    },
+    {
+        "_id": "A201",
+        "title": "Aerodynamics Quiz",
+        "points": 18,
+        "description": "Multiple Modules",
+        "due": "May 25 3:10pm",
+        "until": "April 23 4:00pm",
+        "course": "RS102"
+    },
+    {
+        "_id": "A202",
+        "title": "Flow Analysis",
+        "points": 70,
+        "description": "Multiple Modules",
+        "due": "May 25 3:00pm",
+        "until": "April 23 4:00pm",
+        "course": "RS102"
+    },
+    {
+        "_id": "A203",
+        "title": "Heating Analysis",
+        "points": 31,
+        "description": "Multiple Modules",
+        "due": "May 25 3:10pm",
+        "until": "April 23 4:00pm",
+        "course": "RS102"
+    },
+    {
+        "_id": "A301",
+        "title": "Structural Design Task",
+        "points": 31,
+        "description": "Multiple Modules",
+        "due": "May 25 3:10pm",
+        "until": "April 23 4:00pm",
+        "course": "RS103"
+    },
+    {
+        "_id": "A302",
+        "title": "Orbital Calculations",
+        "points": 21,
+        "description": "Multiple Modules",
+        "due": "May 25 3:10pm",
+        "until": "April 23 4:00pm",
+        "course": "RS103"
+    },
+    {
+        "_id": "A303",
+        "title": "Systems Engineering Exam",
+        "points": 100,
+        "description": "Multiple Modules",
+        "due": "May 25 3:10pm",
+        "until": "April 23 4:00pm",
+        "course": "RS103"
+    }
+]

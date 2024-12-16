@@ -1,0 +1,58 @@
+.wd-assignments-list {
+    padding: 0px;
+    border-radius: 0%;
+    list-style-type: none;
+  }
+  
+  .wd-assignments-list > li {
+    background-color: lightgray;
+    border: 1px solid gray;
+    margin-bottom: 5px;
+    padding: 0px;
+    border-radius: 0%;
+    padding-top: 15px;
+  }
+  
+  .wd-assignments-list > li > ul{
+      padding-top: 10px;
+      border-radius: 0%;
+    }
+  
+  .wd-assignments-list > ul > ul > li{
+    padding: 5px;
+    border-radius: 0%;
+    border-top: 1px solid gray !important;
+    border-left: 2px solid green;
+  }
+  
+  
+  .wd-fg-color-green{
+      color:green;
+  }
+  
+  .wd-fg-color-gray{
+    color:gray
+  }
+  
+  .wd-margin-right {
+      margin-right: 20px;
+  }
+  
+  .wd-button {
+      margin-left: 5px;
+  }
+  
+  .wd-top-bar-text > a{
+    text-decoration: none;
+    color: black;
+  }
+  
+  .wd-top{
+    margin-top: 10;
+  }
+  
+  .wd-top-bar > a {
+    text-decoration: none;
+    width: 100%;
+    color: #ff7070;
+  }
